@@ -16,7 +16,7 @@ const CourseGoalList = props => {
         </CourseGoalItem>
       ))}
     </ul>
-  );
+  ); 
 };
 
 export default CourseGoalList;
